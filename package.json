@@ -1,0 +1,19 @@
+{
+  "name": "primeiro_projeto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scrip.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielVSlima/primeiro_projeto.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gabrielVSlima/primeiro_projeto/issues"
+  },
+  "homepage": "https://github.com/gabrielVSlima/primeiro_projeto#readme"
+}
